@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "driver_usart.h": "c",
+        "driver_usart1.h": "c",
+        "common_debug.h": "c",
+        "app_comm.h": "c",
+        "driver_adc1.h": "c",
+        "driver_tim7.h": "c",
+        "app_sampling.h": "c"
+    }
+}
